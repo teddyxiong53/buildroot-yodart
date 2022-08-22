@@ -1,4 +1,4 @@
-menu "yodart"
+menu "yodart-package"
 
-source "$BR2_EXTERNAL_YODART_PATH/package/yodart/X/Config.in"
+source "$BR2_EXTERNAL_YODART_PATH/package/yodart/Config.in"
 endmenu

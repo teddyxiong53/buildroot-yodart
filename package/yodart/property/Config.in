@@ -1,0 +1,5 @@
+config BR2_PACKAGE_YODART_PROPERTY
+	bool "property"
+	help
+		android property.
+

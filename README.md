@@ -8,3 +8,9 @@
 
 代码都放到source目录下。
 
+编译方法：
+
+```
+make BR2_EXTERNAL=../buildroot-yodart/ menuconfig
+```
+
